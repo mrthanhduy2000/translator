@@ -1,3 +1,7 @@
+> **Kho này đã ngừng phát triển (lưu trữ ngày 10/10/2026).**
+> Bản hiện tại, dịch phụ đề YouTube và Coursera kèm lồng tiếng Việt, cài một lệnh cho Mac và Windows:
+> **[mrthanhduy2000/dich-phu-de-long-tieng](https://github.com/mrthanhduy2000/dich-phu-de-long-tieng)**
+
 # Coursera & Deeplearning.ai Subtitle Translator
 
 <div align="center">
